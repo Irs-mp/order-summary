@@ -33,7 +33,7 @@ Users should be able to:
 
 ## Links
 
-- [Live site](https://irs-mp.github.io/order-summary/) 👀
+- [Live](https://irs-mp.github.io/order-summary/) 👀
 
 ## Built with
 
